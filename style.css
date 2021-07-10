@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+#Header {
+    font: 30px;
+    font-family: inherit;
+}
+div {
+    margin-top: 15px;
+}
+.image-section1 {
+    display: flex;
+    justify-content: center;
+}
+.section-style1 {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: whitesmoke;
+}
+p {
+    font-variant: small-caps;
+    font: 13px;
+    font-family: fantasy;
+    font-weight: 300;
+    color: firebrick;
+}
